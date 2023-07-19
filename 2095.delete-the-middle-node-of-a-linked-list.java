@@ -25,7 +25,6 @@ class Solution {
         ListNode node = head;
         int size = 0;
         
-
         while (node != null) {
             node = node.next;
             size++;
